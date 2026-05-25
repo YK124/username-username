@@ -26,9 +26,9 @@ career = {
 
 | Project | Description |
 |---|---|
-| [aanalyticsact](https://github.com/[username]/aanalyticsact-1) | Adobe Analytics API 추출 자동화 라이브러리 — 코드 복잡도 85%↓, 속도 5배↑ |
-| [aa-segment-integrity-auditor](https://github.com/[username]/aa-segment-manager) | 세그먼트 정합성 검증 & 자동 동기화 엔진 |
-| [app-traffic-analytics](https://github.com/[username]/app-traffic-analytics) | 글로벌 커머스 Mobile App Traffic 데이터마트 쿼리 |
+| [aanalyticsact](https://github.com/YKC124/aanalyticsact-1) | Adobe Analytics API 추출 자동화 라이브러리 — 코드 복잡도 85%↓, 속도 5배↑ |
+| [aa-segment-manager](https://github.com/YKC124/aa-segment-manager) | 세그먼트 정합성 검증 & 자동 동기화 엔진 |
+| [app-traffic-analytics](https://github.com/YKC124/app-traffic-analytics) | 글로벌 커머스 Mobile App Traffic 데이터마트 쿼리 |
 
 ## 📫 Contact
 
